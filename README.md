@@ -1,0 +1,1 @@
+# AWS-rekognition-application-project
